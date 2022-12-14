@@ -54,7 +54,7 @@ return [
 
     'url' => env('APP_URL', 'https://graph-commits-app-2.vercel.app/'),
 
-    'asset_url' => env('ASSET_URL', 'public'),
+    'asset_url' => env('ASSET_URL', 'public/'),
 
     /*
     |--------------------------------------------------------------------------
